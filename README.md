@@ -1,2 +1,2 @@
 # docker-compose
-Study about docker-compose
+This project aims to study and explore the use of Docker Compose to create and configure setup files. The goal is to develop an environment that can be easily reviewed and replicated in the future, simplifying the deployment and management of applications. By creating docker-compose.yml files, the project seeks to streamline container orchestration, allowing for the clear and efficient definition of services, networks, and volumes. Additionally, the project will serve as a knowledge base for future implementations and reviews, ensuring best practices and consistency in the use of containerization technologies.
